@@ -200,13 +200,3 @@ The primary focus of this project is AWS-based data engineering: data ingestion,
 
 Apache Airflow is included only as a supporting orchestration component through a DAG script. It is not a separate Airflow infrastructure project.
 
----
-
-*Cloud Platform:* Amazon Web Services (AWS)  
-*Data Processing:* AWS Glue / Apache Spark  
-*Storage:* Amazon S3  
-**Analytics:** Amazon Athena  
-**Orchestration:** Apache Airflow (DAG script)
-=======
-# AWS_Ecommerce_Data_Pipeline
->>>>>>> f6abc747496c96e16a249bd4cce635c5584bc7cc
