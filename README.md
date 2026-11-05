@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-Commerce Data Engineering Pipeline
 
 An end-to-end e-commerce data engineering pipeline built on Amazon Web Services (AWS), designed to ingest, transform, catalog, and analyze order data.
@@ -206,3 +207,6 @@ Apache Airflow is included only as a supporting orchestration component through 
 **Storage:** Amazon S3  
 **Analytics:** Amazon Athena  
 **Orchestration:** Apache Airflow (DAG script)
+=======
+# AWS_Ecommerce_Data_Pipeline
+>>>>>>> f6abc747496c96e16a249bd4cce635c5584bc7cc
