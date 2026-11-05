@@ -1,0 +1,6 @@
+boto3
+python-dotenv
+faker
+# Airflow orchestration (install in the Airflow environment)
+apache-airflow
+apache-airflow-providers-amazon
